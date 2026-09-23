@@ -3,21 +3,15 @@
 
 # 🏥 HOSPITAL-MANAGEMENT-SQL
 
-![banner](https://img.shields.io/badge/HOSPITAL%20DATA%20VAULT-Database%20Design%20%7C%20CRUD%20%7C%20Aggregates%20%7C%20Analytics-8e44ad?style=for-the-badge)
+<img src="banner.svg" alt="Hospital Data Vault Banner" width="100%">
 
-### 🩺 *Learning SQL one query at a time...*
+### 🧍 Patients ➤ 📅 Appointments ➤ 💊 Care ➤ 💳 Billing
 
-![SQL](https://img.shields.io/badge/SQL-Language-2f81f7?style=for-the-badge&logo=postgresql&logoColor=white)
-![Database](https://img.shields.io/badge/DATABASE-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![License](https://img.shields.io/badge/LICENSE-MIT-7f8c8d?style=for-the-badge)
+![SQL](https://img.shields.io/badge/🧬%20SQL-2f81f7?style=flat-square)![DATABASE](https://img.shields.io/badge/🗄️%20DATABASE-POSTGRESQL-16a085?style=flat-square)![STATUS](https://img.shields.io/badge/✅%20STATUS-COMPLETED-2ecc71?style=flat-square)![LEVEL](https://img.shields.io/badge/📈%20LEVEL-BEGINNER--INTERMEDIATE-e67e22?style=flat-square)
 
-![Status](https://img.shields.io/badge/STATUS-COMPLETED-2ecc71?style=flat-square)
-![Level](https://img.shields.io/badge/LEVEL-BEGINNER--INTERMEDIATE-e67e22?style=flat-square)
-![Maintained](https://img.shields.io/badge/MAINTAINED-YES-2ecc71?style=flat-square)
-![Live](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
+![LICENSE](https://img.shields.io/badge/📜%20LICENSE-MIT-7f8c8d?style=flat-square)![MAINTAINED](https://img.shields.io/badge/🔧%20MAINTAINED-YES-2ecc71?style=flat-square)![LIVE](https://img.shields.io/badge/🚀%20STATUS-LIVE-brightgreen?style=flat-square)![OPEN%20SOURCE](https://img.shields.io/badge/💻%20OPEN%20SOURCE-YES-9b59b6?style=flat-square)
 
-[![Star](https://img.shields.io/badge/⭐-GIVE%20IT%20A%20STAR-f1c40f?style=flat-square)](#)
-[![Fork](https://img.shields.io/badge/🍴-FORK%20%26%20LEARN-9b59b6?style=flat-square)](#)
+[![Star](https://img.shields.io/badge/⭐-GIVE%20IT%20A%20STAR-f1c40f?style=flat-square)](#)[![Fork](https://img.shields.io/badge/🍴-FORK%20%26%20LEARN-9b59b6?style=flat-square)](#)[![Watch](https://img.shields.io/badge/👀-WATCH%20REPO-3498db?style=flat-square)](#)
 
 > 💭 *"Data is the heartbeat of every hospital — this project turns raw records into meaningful care."*
 
@@ -25,12 +19,36 @@
 
 <br>
 
+## 🔴 Live Status
+
+<div align="center">
+
+![Live](https://img.shields.io/badge/🟢%20LIVE-Actively%20Updated-brightgreen?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/📅%20LAST%20UPDATED-September%202026-blue?style=for-the-badge)
+![Commits](https://img.shields.io/badge/🔥%20BUILD%20STREAK-Ongoing-orange?style=for-the-badge)
+
+</div>
+
+This repo is **🟢 live and actively evolving** — it's not a one-time submission, it's an ongoing SQL practice log.
+
+- 🆕 New queries are being added regularly as new SQL concepts are learned
+- 🔁 Existing queries get refined for performance & readability
+- 🧪 Currently experimenting with: CTEs, triggers & stored procedures
+- 📬 Open to feedback & pull requests anytime
+
+<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
+
+---
+
 ## 📚 Table of Contents
 
+- [🔴 Live Status](#live-status)
 - [📌 Project Overview](#project-overview)
 - [🗂️ Project Structure](#project-structure)
 - [🧾 Sample Output](#sample-output)
 - [✨ Features](#features)
+- [🧠 What This Project Taught Me](#what-this-project-taught-me)
+- [🗺️ Roadmap](#roadmap)
 - [🛠️ Tech Stack](#tech-stack)
 - [▶️ How to Run](#how-to-run)
 - [💬 Feedback](#feedback)
@@ -65,6 +83,7 @@ It's designed as a hands-on learning project covering the full SQL spectrum:
 ```
 📦 HOSPITAL-MANAGEMENT-SQL
 ┣ 📜 hospital_management.sql      → Full script: schema + data + queries
+┣ 🖼️ banner.svg                   → README banner graphic
 ┣ 📖 README.md                    → Project documentation (you are here)
 ┃
 ┣ 🧍 patientsss                   → Patient records (name, dob, gender, contact, address)
@@ -131,6 +150,36 @@ GROUP BY d.department_name;
 - 🗓️ Date & string functions — `EXTRACT`, `TO_CHAR`, `TRIM`, `UPPER`, `COALESCE`
 - 🎯 `CASE`-based classification (doctor seniority, patient risk level)
 - 🧹 CRUD operations — `INSERT`, `UPDATE`, `DELETE`
+- 🩹 Data cleanup using `COALESCE` for missing phone numbers
+- 🕵️ "No-show" patient detection using `NOT IN` subqueries
+- 🏆 Top revenue-generating patients using `ORDER BY ... LIMIT`
+
+<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
+
+---
+
+## 🧠 What This Project Taught Me
+
+- 🔑 How to design normalized tables with proper foreign key relationships
+- 🧮 Writing nested subqueries to answer "which patients/doctors" style questions
+- 🪟 Using window functions (`RANK`, `COUNT OVER`) for ranking & running totals
+- 🧹 Handling messy/missing data gracefully with `COALESCE`
+- 📊 Turning raw transactional data into business insights (revenue, top doctors, patient risk)
+- 🔗 Choosing the right JOIN (`INNER` vs `LEFT` vs `FULL OUTER`) for the question being asked
+
+<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
+
+---
+
+## 🗺️ Roadmap
+
+- [x] ✅ Core schema — patients, doctors, appointments, billing, departments
+- [x] ✅ CRUD, joins, subqueries, aggregates, window functions
+- [ ] 🔜 Add stored procedures for common operations (e.g., book appointment)
+- [ ] 🔜 Add triggers (e.g., auto-update billing on appointment completion)
+- [ ] 🔜 Add views for frequently used reports
+- [ ] 🔜 Add an ER diagram image
+- [ ] 🔜 Connect to a simple front-end / dashboard
 
 <div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
 
@@ -143,6 +192,8 @@ GROUP BY d.department_name;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-2f81f7?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -182,6 +233,8 @@ Contributions are welcome! 🎉
 
 📧 Feel free to connect for queries, suggestions, or collaboration!
 
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
+
 </div>
 
 ---
@@ -190,6 +243,6 @@ Contributions are welcome! 🎉
 
 > 🌟 *"Every query written here is a step toward smarter, faster, and more compassionate healthcare management."*
 
-Made with ❤️ and a lot of `SELECT` statements
+⭐ **If this helped you, consider giving it a star!** ⭐
 
 </div>
