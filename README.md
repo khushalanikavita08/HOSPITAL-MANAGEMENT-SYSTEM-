@@ -163,6 +163,9 @@ FROM doctorss;
 ```
 
 ---
+## SAMPLE OUTPUT
+<img width="1840" height="1600" alt="sample_output (1)" src="https://github.com/user-attachments/assets/3b2b7e57-49af-453b-ba8b-70d2ae50b37c" />
+
 
 ## 🗺️ Tables Overview
 
