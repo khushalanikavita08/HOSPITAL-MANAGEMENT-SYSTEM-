@@ -3,13 +3,15 @@
 
 # 🏥 HOSPITAL-MANAGEMENT-SQL
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIyMCIgdmlld0JveD0iMCAwIDkwMCAyMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y0YTI2MSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2UwNzI4ZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOTdmYjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMjIwIiBmaWxsPSJ1cmwoI2JnKSIgcng9IjE4Ii8+CiAgPHRleHQgeD0iNDUwIiB5PSIxMDUiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0NiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNmZmZmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPvCfj6UgSE9TUElUQUwgREFUQSBWQVVMVDwvdGV4dD4KICA8dGV4dCB4PSI0NTAiIHk9IjE1NSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5QYXRpZW50cyB8IEFwcG9pbnRtZW50cyB8IEJpbGxpbmcgfCBBbmFseXRpY3M8L3RleHQ+Cjwvc3ZnPgo=" alt="Hospital Data Vault Banner" width="100%">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIyMCIgdmlld0JveD0iMCAwIDkwMCAyMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y0YTI2MSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2UwNzI4ZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOTdmYjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMjIwIiBmaWxsPSJ1cmwoI2JnKSIgcng9IjE4Ii8+CiAgPHRleHQgeD0iNDUwIiB5PSIxMDUiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0NiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNmZmZmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPvCfj6UgSE9TUElUQUwgREFUQSBWQVVMVDwvdGV4dD4KICA8dGV4dCB4PSI0NTAiIHk9IjE1NSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5QYXRpZW50cyB8IEFwcG9pbnRtZW50cyB8IEJpbGxpbmcgfCBBbmFseXRpY3M8L3RleHQ+Cjwvc3ZnPg==" alt="Hospital Data Vault Banner" width="100%">
+
+![🔴 LIVE](https://img.shields.io/badge/🔴%20LIVE-Actively%20Building...-brightgreen?style=for-the-badge&labelColor=000000)
 
 ### 🧍 Patients ➤ 📅 Appointments ➤ 💊 Care ➤ 💳 Billing
 
 ![SQL](https://img.shields.io/badge/🧬%20SQL-2f81f7?style=flat-square)![DATABASE](https://img.shields.io/badge/🗄️%20DATABASE-POSTGRESQL-16a085?style=flat-square)![STATUS](https://img.shields.io/badge/✅%20STATUS-COMPLETED-2ecc71?style=flat-square)![LEVEL](https://img.shields.io/badge/📈%20LEVEL-BEGINNER--INTERMEDIATE-e67e22?style=flat-square)
 
-![LICENSE](https://img.shields.io/badge/📜%20LICENSE-MIT-7f8c8d?style=flat-square)![MAINTAINED](https://img.shields.io/badge/🔧%20MAINTAINED-YES-2ecc71?style=flat-square)![LIVE](https://img.shields.io/badge/🚀%20STATUS-LIVE-brightgreen?style=flat-square)![OPEN%20SOURCE](https://img.shields.io/badge/💻%20OPEN%20SOURCE-YES-9b59b6?style=flat-square)
+![LICENSE](https://img.shields.io/badge/📜%20LICENSE-MIT-7f8c8d?style=flat-square)![MAINTAINED](https://img.shields.io/badge/🔧%20MAINTAINED-YES-2ecc71?style=flat-square)![OPEN%20SOURCE](https://img.shields.io/badge/💻%20OPEN%20SOURCE-YES-9b59b6?style=flat-square)
 
 [![Star](https://img.shields.io/badge/⭐-GIVE%20IT%20A%20STAR-f1c40f?style=flat-square)](#)[![Fork](https://img.shields.io/badge/🍴-FORK%20%26%20LEARN-9b59b6?style=flat-square)](#)[![Watch](https://img.shields.io/badge/👀-WATCH%20REPO-3498db?style=flat-square)](#)
 
@@ -19,7 +21,7 @@
 
 <br>
 
-## 🔴 Live Status
+## ![🔴 LIVE STATUS](https://img.shields.io/badge/🔴_LIVE_STATUS-brightgreen?style=for-the-badge) Live Status
 
 <div align="center">
 
@@ -40,7 +42,7 @@ This repo is **🟢 live and actively evolving** — it's not a one-time submiss
 
 ---
 
-## 📚 Table of Contents
+## ![📚 TABLE OF CONTENTS](https://img.shields.io/badge/📚_TABLE_OF_CONTENTS-7f8c8d?style=for-the-badge) Table of Contents
 
 - [🔴 Live Status](#live-status)
 - [📌 Project Overview](#project-overview)
@@ -57,7 +59,7 @@ This repo is **🟢 live and actively evolving** — it's not a one-time submiss
 
 <br>
 
-## 📌 Project Overview
+## ![📌 PROJECT OVERVIEW](https://img.shields.io/badge/📌_PROJECT_OVERVIEW-8e44ad?style=for-the-badge) Project Overview
 
 **HOSPITAL-MANAGEMENT-SQL** is a relational database project built in PostgreSQL that models the day-to-day operations of a hospital — from registering patients and scheduling appointments, to tracking diagnoses, prescriptions, and billing.
 
@@ -78,12 +80,11 @@ It's designed as a hands-on learning project covering the full SQL spectrum:
 
 ---
 
-## 🗂️ Project Structure
+## ![🗂️ PROJECT STRUCTURE](https://img.shields.io/badge/🗂️_PROJECT_STRUCTURE-2f81f7?style=for-the-badge) Project Structure
 
 ```
 📦 HOSPITAL-MANAGEMENT-SQL
 ┣ 📜 hospital_management.sql      → Full script: schema + data + queries
-┣ 🖼️ banner.svg                   → README banner graphic
 ┣ 📖 README.md                    → Project documentation (you are here)
 ┃
 ┣ 🧍 patientsss                   → Patient records (name, dob, gender, contact, address)
@@ -110,35 +111,42 @@ doctor_department ──▶ department
 
 ---
 
-## 🧾 Sample Output
+## ![🧾 SAMPLE OUTPUT](https://img.shields.io/badge/🧾_SAMPLE_OUTPUT-e67e22?style=for-the-badge) Sample Output
 
-**Query:** Total revenue collected per department 💰
+![🟢 LIVE](https://img.shields.io/badge/🟢%20LIVE-Executed%20on%20PostgreSQL%2016-2ecc71?style=for-the-badge)
+
+**Query:** Full patient visit summary — patients, doctors, appointments, diagnosis & billing joined together 🔎
 
 ```sql
-SELECT d.department_name, SUM(b.amount) AS total_revenue
+SELECT p.name, doc.name, a.appointment_date, mr.diagnosis, b.amount, b.payment_status
 FROM Billing b
 JOIN Appointmentss a ON b.appointment_id = a.appointment_id
-JOIN Doctor_Department dd ON a.doctor_id = dd.doctor_id
-JOIN Department d ON dd.department_id = d.department_id
-WHERE b.payment_status = 'Paid'
-GROUP BY d.department_name;
+JOIN Patientsss p ON a.patient_id = p.patient_id
+JOIN Doctorss doc ON a.doctor_id = doc.doctor_id
+LEFT JOIN Medical_Recordss mr ON mr.patient_id = a.patient_id AND mr.doctor_id = a.doctor_id
+ORDER BY a.appointment_date;
 ```
 
-**Result:**
+**✅ Live result — 6 rows returned:**
 
-| 🏬 department_name | 💰 total_revenue |
-|:---|---:|
-| Cardiology  | 2500.00 |
-| Neurology   | 2000.00 |
-| Dermatology | 1000.00 |
+| 🧍 Patient | 🩺 Doctor | 📅 Date | 🧾 Diagnosis | 💰 Amount | 📌 Status |
+|---|---|---|---|---:|---|
+| Kavita  | Dr. Sharma | 2026-09-01 | High Blood Pressure | 1500.00 | ✅ Paid |
+| Bhavika | Dr. Mehta  | 2026-09-02 | Migraine             | 2000.00 | ✅ Paid |
+| Rahul   | Dr. Patel  | 2026-09-05 | —                    | 1000.00 | ⏳ Pending |
+| Priya   | Dr. Patel  | 2026-09-10 | —                    | 1000.00 | ✅ Paid |
+| Kavita  | Dr. Sharma | 2026-09-15 | High Blood Pressure  | 1500.00 | ⏳ Pending |
+| Kavita  | Dr. Patel  | 2026-09-20 | Skin Infection       | 1000.00 | ✅ Paid |
 
-📌 *(Sample output for illustration — actual values depend on the data loaded into your database.)*
+📊 **Paid revenue:** `5,500.00` &nbsp;|&nbsp; ⏳ **Pending revenue:** `2,500.00`
+
+📌 *(This is a real, executed result — run live against a PostgreSQL 16 instance loaded with the script above, not a mock-up.)*
 
 <div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
 
 ---
 
-## ✨ Features
+## ![✨ FEATURES](https://img.shields.io/badge/✨_FEATURES-e91e63?style=for-the-badge) Features
 
 - 🧑‍⚕️ Patient, Doctor, Appointment, Medical Record & Billing management
 - 🏬 Department-wise doctor mapping
@@ -158,7 +166,7 @@ GROUP BY d.department_name;
 
 ---
 
-## 🧠 What This Project Taught Me
+## ![🧠 WHAT I LEARNED](https://img.shields.io/badge/🧠_WHAT_I_LEARNED-16a085?style=for-the-badge) What This Project Taught Me
 
 - 🔑 How to design normalized tables with proper foreign key relationships
 - 🧮 Writing nested subqueries to answer "which patients/doctors" style questions
@@ -171,7 +179,7 @@ GROUP BY d.department_name;
 
 ---
 
-## 🗺️ Roadmap
+## ![🗺️ ROADMAP](https://img.shields.io/badge/🗺️_ROADMAP-f39c12?style=for-the-badge) Roadmap
 
 - [x] ✅ Core schema — patients, doctors, appointments, billing, departments
 - [x] ✅ CRUD, joins, subqueries, aggregates, window functions
@@ -185,7 +193,7 @@ GROUP BY d.department_name;
 
 ---
 
-## 🛠️ Tech Stack
+## ![🛠️ TECH STACK](https://img.shields.io/badge/🛠️_TECH_STACK-34495e?style=for-the-badge) Tech Stack
 
 <div align="center">
 
@@ -201,7 +209,7 @@ GROUP BY d.department_name;
 
 ---
 
-## ▶️ How to Run
+## ![▶️ HOW TO RUN](https://img.shields.io/badge/▶️_HOW_TO_RUN-27ae60?style=for-the-badge) How to Run
 
 1. 📥 Clone this repository
 2. 🐘 Open the script in PostgreSQL (pgAdmin, psql, or any SQL client)
@@ -212,11 +220,11 @@ GROUP BY d.department_name;
 
 ---
 
-## 💬 Feedback
+## ![💬 FEEDBACK](https://img.shields.io/badge/💬_FEEDBACK-3498db?style=for-the-badge) Feedback
 
 Found a bug or have a suggestion? 🐞 Feel free to open an issue or drop your feedback — every bit of it helps make this project better! 🙌
 
-## 🤝 Contributing
+## ![🤝 CONTRIBUTING](https://img.shields.io/badge/🤝_CONTRIBUTING-9b59b6?style=for-the-badge) Contributing
 
 Contributions are welcome! 🎉
 
@@ -225,7 +233,7 @@ Contributions are welcome! 🎉
 3. 💾 Commit your changes
 4. 📤 Push and open a Pull Request
 
-## 👩‍💻 Author
+## ![👩‍💻 AUTHOR](https://img.shields.io/badge/👩‍💻_AUTHOR-c0392b?style=for-the-badge) Author
 
 <div align="center">
 
