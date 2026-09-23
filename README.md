@@ -33,6 +33,9 @@ It's designed as a hands-on SQL practice project covering everything from **tabl
 - 📊 **Analytics Queries** — top-paying patients, top-performing doctors, monthly revenue trends, risk classification with `CASE`, running totals with `OVER()`, and more
 
 ---
+## PROJECT OVERVIEW
+<img width="1312" height="1199" alt="ChatGPT Image Sep 23, 2026, 10_52_20 AM" src="https://github.com/user-attachments/assets/4c6cb655-8187-4894-8bdb-6136cafc5da0" />
+
 
 ## 🗂️ Database Schema (ER Overview)
 
