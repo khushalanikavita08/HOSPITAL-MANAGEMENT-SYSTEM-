@@ -114,6 +114,8 @@ doctor_department ──▶ department
 ## ![🧾 SAMPLE OUTPUT](https://img.shields.io/badge/🧾_SAMPLE_OUTPUT-e67e22?style=for-the-badge) Sample Output
 
 ![🟢 LIVE](https://img.shields.io/badge/🟢%20LIVE-Executed%20on%20PostgreSQL%2016-2ecc71?style=for-the-badge)
+<img width="1840" height="1600" alt="sample_output (1)" src="https://github.com/user-attachments/assets/ff51abc8-cd30-460e-a9b6-78be0a4338f5" />
+
 
 **Query:** Full patient visit summary — patients, doctors, appointments, diagnosis & billing joined together 🔎
 
