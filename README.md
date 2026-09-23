@@ -1,258 +1,189 @@
 # HOSPITAL-MANAGEMENT-SYSTEM
 <div align="center">
 
-# 🏥 HOSPITAL-MANAGEMENT-SQL
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E86DE&center=true&vCenter=true&width=650&lines=Hospital+Management+System+%F0%9F%8F%A5;PostgreSQL+%7C+SQL+%7C+Relational+Database;Patients+%E2%80%A2+Doctors+%E2%80%A2+Appointments+%E2%80%A2+Billing;Built+by+Kavita+Khushalani" alt="Typing SVG" />
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIyMCIgdmlld0JveD0iMCAwIDkwMCAyMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y0YTI2MSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2UwNzI4ZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOTdmYjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMjIwIiBmaWxsPSJ1cmwoI2JnKSIgcng9IjE4Ii8+CiAgPHRleHQgeD0iNDUwIiB5PSIxMDUiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0NiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNmZmZmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPvCfj6UgSE9TUElUQUwgREFUQSBWQVVMVDwvdGV4dD4KICA8dGV4dCB4PSI0NTAiIHk9IjE1NSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5QYXRpZW50cyB8IEFwcG9pbnRtZW50cyB8IEJpbGxpbmcgfCBBbmFseXRpY3M8L3RleHQ+Cjwvc3ZnPg==" alt="Hospital Data Vault Banner" width="100%">
+<br/>
 
-![🔴 LIVE](https://img.shields.io/badge/🔴%20LIVE-Actively%20Building...-brightgreen?style=for-the-badge&labelColor=000000)
-
-### 🧍 Patients ➤ 📅 Appointments ➤ 💊 Care ➤ 💳 Billing
-
-![SQL](https://img.shields.io/badge/🧬%20SQL-2f81f7?style=flat-square)![DATABASE](https://img.shields.io/badge/🗄️%20DATABASE-POSTGRESQL-16a085?style=flat-square)![STATUS](https://img.shields.io/badge/✅%20STATUS-COMPLETED-2ecc71?style=flat-square)![LEVEL](https://img.shields.io/badge/📈%20LEVEL-BEGINNER--INTERMEDIATE-e67e22?style=flat-square)
-
-![LICENSE](https://img.shields.io/badge/📜%20LICENSE-MIT-7f8c8d?style=flat-square)![MAINTAINED](https://img.shields.io/badge/🔧%20MAINTAINED-YES-2ecc71?style=flat-square)![OPEN%20SOURCE](https://img.shields.io/badge/💻%20OPEN%20SOURCE-YES-9b59b6?style=flat-square)
-
-[![Star](https://img.shields.io/badge/⭐-GIVE%20IT%20A%20STAR-f1c40f?style=flat-square)](#)[![Fork](https://img.shields.io/badge/🍴-FORK%20%26%20LEARN-9b59b6?style=flat-square)](#)[![Watch](https://img.shields.io/badge/👀-WATCH%20REPO-3498db?style=flat-square)](#)
-
-> 💭 *"Data is the heartbeat of every hospital — this project turns raw records into meaningful care."*
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-2ECC71?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 </div>
-
-<br>
-
-## ![🔴 LIVE STATUS](https://img.shields.io/badge/🔴_LIVE_STATUS-brightgreen?style=for-the-badge) Live Status
-
-<div align="center">
-
-![Live](https://img.shields.io/badge/🟢%20LIVE-Actively%20Updated-brightgreen?style=for-the-badge)
-![Last Updated](https://img.shields.io/badge/📅%20LAST%20UPDATED-September%202026-blue?style=for-the-badge)
-![Commits](https://img.shields.io/badge/🔥%20BUILD%20STREAK-Ongoing-orange?style=for-the-badge)
-
-</div>
-
-This repo is **🟢 live and actively evolving** — it's not a one-time submission, it's an ongoing SQL practice log.
-
-- 🆕 New queries are being added regularly as new SQL concepts are learned
-- 🔁 Existing queries get refined for performance & readability
-- 🧪 Currently experimenting with: CTEs, triggers & stored procedures
-- 📬 Open to feedback & pull requests anytime
-
-<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
 
 ---
 
-## ![📚 TABLE OF CONTENTS](https://img.shields.io/badge/📚_TABLE_OF_CONTENTS-7f8c8d?style=for-the-badge) Table of Contents
+## 🏥 About the Project
 
-- [🔴 Live Status](#live-status)
-- [📌 Project Overview](#project-overview)
-- [🗂️ Project Structure](#project-structure)
-- [🧾 Sample Output](#sample-output)
-- [✨ Features](#features)
-- [🧠 What This Project Taught Me](#what-this-project-taught-me)
-- [🗺️ Roadmap](#roadmap)
-- [🛠️ Tech Stack](#tech-stack)
-- [▶️ How to Run](#how-to-run)
-- [💬 Feedback](#feedback)
-- [🤝 Contributing](#contributing)
-- [👩‍💻 Author](#author)
+**Hospital Management System** is a relational database project built in **PostgreSQL** that models the core operations of a hospital — patient registration, doctor management, appointment scheduling, medical records, billing, and department mapping.
 
-<br>
+It's designed as a hands-on SQL practice project covering everything from **table design & constraints** to **joins, subqueries, window functions, and aggregate reporting**.
 
-## ![📌 PROJECT OVERVIEW](https://img.shields.io/badge/📌_PROJECT_OVERVIEW-8e44ad?style=for-the-badge) Project Overview
+---
 
-**HOSPITAL-MANAGEMENT-SQL** is a relational database project built in PostgreSQL that models the day-to-day operations of a hospital — from registering patients and scheduling appointments, to tracking diagnoses, prescriptions, and billing.
+## ✨ Features
 
-It's designed as a hands-on learning project covering the full SQL spectrum:
+- 🧑‍⚕️ **Patient Management** — registration, contact details, and history tracking
+- 👨‍⚕️ **Doctor Directory** — specialization, fees, experience, and availability
+- 📅 **Appointment Scheduling** — status tracking (Scheduled / Completed / Cancelled)
+- 📋 **Medical Records** — diagnosis & prescription history per patient
+- 💰 **Billing System** — invoices, payment status, and revenue reports
+- 🏢 **Department Mapping** — many-to-many doctor–department relationships
+- 📊 **Analytics Queries** — top-paying patients, top-performing doctors, monthly revenue trends, risk classification with `CASE`, running totals with `OVER()`, and more
 
-| 🧩 Area | 💡 What's covered |
+---
+
+## 🗂️ Database Schema (ER Overview)
+
+```mermaid
+erDiagram
+    PATIENTS ||--o{ APPOINTMENTS : books
+    DOCTORS ||--o{ APPOINTMENTS : attends
+    PATIENTS ||--o{ MEDICAL_RECORDS : has
+    DOCTORS ||--o{ MEDICAL_RECORDS : writes
+    APPOINTMENTS ||--o| BILLING : generates
+    PATIENTS ||--o{ BILLING : pays
+    DOCTORS }o--o{ DEPARTMENT : belongs_to
+
+    PATIENTS {
+        int patient_id PK
+        string name
+        date dob
+        string gender
+        string phone_number
+        string email
+        string address
+        date registration_date
+    }
+    DOCTORS {
+        int doctor_id PK
+        string name
+        string specialization
+        string phone_number
+        string email
+        string available_days
+        numeric consultation_fee
+        int experience_years
+    }
+    APPOINTMENTS {
+        int appointment_id PK
+        int patient_id FK
+        int doctor_id FK
+        date appointment_date
+        string status
+    }
+    MEDICAL_RECORDS {
+        int record_id PK
+        int patient_id FK
+        int doctor_id FK
+        string diagnosis
+        string prescription
+        date treatment_date
+    }
+    BILLING {
+        int invoice_id PK
+        int patient_id FK
+        int appointment_id FK
+        numeric amount
+        string payment_status
+        date payment_date
+    }
+    DEPARTMENT {
+        int department_id PK
+        string department_name
+    }
+```
+
+---
+
+## 🧩 Tech Stack
+
+| Layer | Technology |
 |---|---|
-| 🏗️ Design | Database & table design with primary/foreign key relationships |
-| 🧹 CRUD | `INSERT`, `UPDATE`, `DELETE`, `SELECT` |
-| 🔗 Joins | Multi-table JOINs & nested subqueries |
-| 📊 Aggregation | `GROUP BY`, `HAVING`, aggregate functions |
-| 🪟 Analytics | Window functions & `CASE`-based logic |
-| 🗓️ Utility | Date, string & null-handling functions |
-
-🎯 The goal — go from raw hospital data to real, decision-ready insights (revenue, patient load, doctor performance, etc.) using pure SQL.
-
-<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
+| Database Engine | PostgreSQL |
+| Query Language | SQL (DDL, DML, DQL) |
+| Concepts Used | Joins, Subqueries, Aggregates, Window Functions, `CASE`, `DATE_TRUNC`, `COALESCE` |
 
 ---
 
-## ![🗂️ PROJECT STRUCTURE](https://img.shields.io/badge/🗂️_PROJECT_STRUCTURE-2f81f7?style=for-the-badge) Project Structure
+## 📁 Project Structure
 
 ```
-📦 HOSPITAL-MANAGEMENT-SQL
-┣ 📜 hospital_management.sql      → Full script: schema + data + queries
-┣ 📖 README.md                    → Project documentation (you are here)
-┃
-┣ 🧍 patientsss                   → Patient records (name, dob, gender, contact, address)
-┣ 🩺 doctorss                     → Doctor records (specialization, fee, experience)
-┣ 📅 appointmentss                → Links patients ↔ doctors with date & status
-┣ 📋 medical_recordss              → Diagnosis & prescription history
-┣ 💳 billing                      → Invoices, payment status & amounts
-┣ 🏬 department                   → Hospital departments
-┗ 🔗 doctor_department             → Maps doctors to their department(s)
+📦 hospital-management-system
+ ┣ 📜 hospital_management_system.sql   # Full schema + data + queries
+ ┗ 📜 README.md                        # You are here
 ```
-
-**🔗 Table relationships:**
-
-```
-patientsss ──┐
-             ├──▶ appointmentss ──▶ billing
-   doctorss ─┘         │
-      │                └──▶ medical_recordss
-      ▼
-doctor_department ──▶ department
-```
-
-<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
 
 ---
 
-## ![🧾 SAMPLE OUTPUT](https://img.shields.io/badge/🧾_SAMPLE_OUTPUT-e67e22?style=for-the-badge) Sample Output
+## 🚀 How to Run
 
-![🟢 LIVE](https://img.shields.io/badge/🟢%20LIVE-Executed%20on%20PostgreSQL%2016-2ecc71?style=for-the-badge)
-<img width="1840" height="1600" alt="sample_output (1)" src="https://github.com/user-attachments/assets/ff51abc8-cd30-460e-a9b6-78be0a4338f5" />
+1. Install **PostgreSQL** and open `psql` or **pgAdmin**
+2. Create the database:
+   ```sql
+   CREATE DATABASE hospital_management;
+   ```
+3. Run the script:
+   ```bash
+   psql -U your_username -d hospital_management -f hospital_management_system.sql
+   ```
+4. Explore the tables and run the sample analytics queries included in the file 🎉
 
+---
 
-**Query:** Full patient visit summary — patients, doctors, appointments, diagnosis & billing joined together 🔎
+## 📊 Sample Query Highlights
 
 ```sql
-SELECT p.name, doc.name, a.appointment_date, mr.diagnosis, b.amount, b.payment_status
+-- Top 5 patients by total amount paid
+SELECT patient_id, SUM(amount) AS total_paid
+FROM Billing
+WHERE payment_status = 'Paid'
+GROUP BY patient_id
+ORDER BY total_paid DESC
+LIMIT 5;
+
+-- Department-wise revenue
+SELECT d.department_name, SUM(b.amount) AS total_revenue
 FROM Billing b
 JOIN Appointmentss a ON b.appointment_id = a.appointment_id
-JOIN Patientsss p ON a.patient_id = p.patient_id
-JOIN Doctorss doc ON a.doctor_id = doc.doctor_id
-LEFT JOIN Medical_Recordss mr ON mr.patient_id = a.patient_id AND mr.doctor_id = a.doctor_id
-ORDER BY a.appointment_date;
+JOIN Doctor_Department dd ON a.doctor_id = dd.doctor_id
+JOIN Department d ON dd.department_id = d.department_id
+WHERE b.payment_status = 'Paid'
+GROUP BY d.department_name;
+
+-- Doctor experience classification
+SELECT name,
+CASE
+    WHEN experience_years > 15 THEN 'Senior'
+    WHEN experience_years >= 5 THEN 'Mid-Level'
+    ELSE 'Junior'
+END AS seniority
+FROM doctorss;
 ```
 
-**✅ Live result — 6 rows returned:**
+---
 
-| 🧍 Patient | 🩺 Doctor | 📅 Date | 🧾 Diagnosis | 💰 Amount | 📌 Status |
-|---|---|---|---|---:|---|
-| Kavita  | Dr. Sharma | 2026-09-01 | High Blood Pressure | 1500.00 | ✅ Paid |
-| Bhavika | Dr. Mehta  | 2026-09-02 | Migraine             | 2000.00 | ✅ Paid |
-| Rahul   | Dr. Patel  | 2026-09-05 | —                    | 1000.00 | ⏳ Pending |
-| Priya   | Dr. Patel  | 2026-09-10 | —                    | 1000.00 | ✅ Paid |
-| Kavita  | Dr. Sharma | 2026-09-15 | High Blood Pressure  | 1500.00 | ⏳ Pending |
-| Kavita  | Dr. Patel  | 2026-09-20 | Skin Infection       | 1000.00 | ✅ Paid |
+## 🗺️ Tables Overview
 
-📊 **Paid revenue:** `5,500.00` &nbsp;|&nbsp; ⏳ **Pending revenue:** `2,500.00`
-
-📌 *(This is a real, executed result — run live against a PostgreSQL 16 instance loaded with the script above, not a mock-up.)*
-
-<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
+| Table | Purpose |
+|---|---|
+| `patientsss` | Patient personal & contact details |
+| `doctorss` | Doctor profiles, fees & specialization |
+| `appointmentss` | Links patients ↔ doctors with date & status |
+| `medical_recordss` | Diagnosis & prescription history |
+| `billing` | Invoices & payment tracking |
+| `department` | List of hospital departments |
+| `doctor_department` | Many-to-many doctor–department mapping |
 
 ---
 
-## ![✨ FEATURES](https://img.shields.io/badge/✨_FEATURES-e91e63?style=for-the-badge) Features
+## 👩‍💻 Author
 
-- 🧑‍⚕️ Patient, Doctor, Appointment, Medical Record & Billing management
-- 🏬 Department-wise doctor mapping
-- 💰 Revenue & billing analytics
-- 📊 Aggregate functions — `SUM`, `AVG`, `MAX`, `MIN`, `COUNT`
-- 🔗 All JOIN types — `INNER`, `LEFT`, `RIGHT`, `FULL OUTER`
-- 🧮 Subqueries & nested queries
-- 🪟 Window functions — `RANK() OVER`, `COUNT() OVER`
-- 🗓️ Date & string functions — `EXTRACT`, `TO_CHAR`, `TRIM`, `UPPER`, `COALESCE`
-- 🎯 `CASE`-based classification (doctor seniority, patient risk level)
-- 🧹 CRUD operations — `INSERT`, `UPDATE`, `DELETE`
-- 🩹 Data cleanup using `COALESCE` for missing phone numbers
-- 🕵️ "No-show" patient detection using `NOT IN` subqueries
-- 🏆 Top revenue-generating patients using `ORDER BY ... LIMIT`
-
-<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
-
----
-
-## ![🧠 WHAT I LEARNED](https://img.shields.io/badge/🧠_WHAT_I_LEARNED-16a085?style=for-the-badge) What This Project Taught Me
-
-- 🔑 How to design normalized tables with proper foreign key relationships
-- 🧮 Writing nested subqueries to answer "which patients/doctors" style questions
-- 🪟 Using window functions (`RANK`, `COUNT OVER`) for ranking & running totals
-- 🧹 Handling messy/missing data gracefully with `COALESCE`
-- 📊 Turning raw transactional data into business insights (revenue, top doctors, patient risk)
-- 🔗 Choosing the right JOIN (`INNER` vs `LEFT` vs `FULL OUTER`) for the question being asked
-
-<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
-
----
-
-## ![🗺️ ROADMAP](https://img.shields.io/badge/🗺️_ROADMAP-f39c12?style=for-the-badge) Roadmap
-
-- [x] ✅ Core schema — patients, doctors, appointments, billing, departments
-- [x] ✅ CRUD, joins, subqueries, aggregates, window functions
-- [ ] 🔜 Add stored procedures for common operations (e.g., book appointment)
-- [ ] 🔜 Add triggers (e.g., auto-update billing on appointment completion)
-- [ ] 🔜 Add views for frequently used reports
-- [ ] 🔜 Add an ER diagram image
-- [ ] 🔜 Connect to a simple front-end / dashboard
-
-<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
-
----
-
-## ![🛠️ TECH STACK](https://img.shields.io/badge/🛠️_TECH_STACK-34495e?style=for-the-badge) Tech Stack
+**Kavita Khushalani**
 
 <div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-2f81f7?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
-
----
-
-## ![▶️ HOW TO RUN](https://img.shields.io/badge/▶️_HOW_TO_RUN-27ae60?style=for-the-badge) How to Run
-
-1. 📥 Clone this repository
-2. 🐘 Open the script in PostgreSQL (pgAdmin, psql, or any SQL client)
-3. ▶️ Run `hospital_management.sql` top to bottom — it creates the database, tables, sample data, and all queries
-4. 🔍 Explore or tweak the queries to try your own analysis
-
-<div align="right"><a href="#hospital-management-sql">⬆️ back to top</a></div>
-
----
-
-## ![💬 FEEDBACK](https://img.shields.io/badge/💬_FEEDBACK-3498db?style=for-the-badge) Feedback
-
-Found a bug or have a suggestion? 🐞 Feel free to open an issue or drop your feedback — every bit of it helps make this project better! 🙌
-
-## ![🤝 CONTRIBUTING](https://img.shields.io/badge/🤝_CONTRIBUTING-9b59b6?style=for-the-badge) Contributing
-
-Contributions are welcome! 🎉
-
-1. 🍴 Fork this repository
-2. 🌿 Create a new branch (`git checkout -b feature-name`)
-3. 💾 Commit your changes
-4. 📤 Push and open a Pull Request
-
-## ![👩‍💻 AUTHOR](https://img.shields.io/badge/👩‍💻_AUTHOR-c0392b?style=for-the-badge) Author
-
-<div align="center">
-
-**Kavita Khushalani** ✨
-
-📧 Feel free to connect for queries, suggestions, or collaboration!
-
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-> 🌟 *"Every query written here is a step toward smarter, faster, and more compassionate healthcare management."*
-
-⭐ **If this helped you, consider giving it a star!** ⭐
+⭐ If you found this project useful, consider giving it a star!
 
 </div>
